@@ -1,0 +1,124 @@
+body{
+    background-color: #DCFFB7;
+}
+.body1{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cell1{
+    height: 500px;
+    width: 50%;
+}
+
+.cell2{
+    height: 500px;
+    width: 50%;
+    background-image: url("img2.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.logodiv{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.logo{
+    height: 70px;
+   width: 250px;
+   background-color: #FF6868;
+   background-image: url("meetlogo.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   border-radius: 20px;
+}
+
+.logoinfo{
+    height: 320px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 30px;
+    line-height: 25px;
+}
+
+.middle{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.circle{
+    height: 95px;
+    width: 95px;
+    border: 15px solid #FF6868;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.msg{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 130px;
+}
+
+.body2{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.cell3{
+    height: 350px;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.cell4{
+    height: 350px;
+    width: 50%;
+    margin-top: 50px;
+}
+ 
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    line-height: 20px;
+    width: 80%;
+    margin-left: 40px;
+}
+
+.body3{
+    height: 90px;
+    background-color:#32012F ;
+    color:#DCFFB7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
